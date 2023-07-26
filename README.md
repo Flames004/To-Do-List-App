@@ -1,7 +1,9 @@
 # To-Do List
 <a href = "https://to-do-list-daily.netlify.app/"><img align="right" src="assets/giphy.gif"></a>
 
-A simple To-Do List web application built using HTML, CSS, and JavaScript. It provides a cleaan and user-friendly interface for managing tasks and creating to-do lists. Whether you're looking for a straightforward to-do list tool or a base to build upon, the To-Do List project offers a solid foundation for organizing and keeping track of your daily tasks.
+A simple To-Do List web application built using HTML, CSS, and JavaScript. It provides a clean and user-friendly interface for managing tasks and creating to-do lists. 
+
+Whether you're looking for a straightforward to-do list tool or a base to build upon, the To-Do List project offers a solid foundation for organizing and keeping track of your daily tasks.
 
 ## Table of Contents
 
@@ -10,6 +12,7 @@ A simple To-Do List web application built using HTML, CSS, and JavaScript. It pr
 - [Demo](#demo) <!-- - [Screenshots](#screenshots) -->
 - [Getting Started](#getting-started)
 - [Usage](#usage)
+- [Upcoming Features](#upcoming-features)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -64,7 +67,14 @@ To run the To-Do List application locally, follow these steps:
 5. To edit a task, simply click on the "Edit" button next to the task and submit after editing.
 
 Feel free to customize and extend it to meet your specific needs.
+
 ***Happy task managing!*** :blush:
+
+## Upcoming Features
+
+- **Folders :** Create folders for different set of tasks like daily tasks, grocery list etc.
+
+- **Theme :** Each task can have its own color to prioritize accordingly.
 
 ## Contributing
 
