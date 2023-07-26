@@ -9,7 +9,8 @@ Whether you're looking for a straightforward to-do list tool or a base to build 
 
 - [Description](#description)
 - [Features](#features)
-- [Demo](#demo) <!-- - [Screenshots](#screenshots) -->
+- [Demo](#demo)
+- [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Upcoming Features](#upcoming-features)
@@ -34,14 +35,15 @@ The application aims to provide a hassle-free and efficient way to manage your t
 
 - Simple and intuitive user interface.
 
+- Data is saved on the go even after `reloding` or `restarting` the application.
+
 ## Demo
 
 You can see a live demo of the To-Do List application [here](https://to-do-list-daily.netlify.app/).
 
-<!-- ## Screenshots
+## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png) -->
+<img align="left" alt="Screenshot 1" width="300" src="assets/Screenshot 1.png"><img alt="Screenshot 2" width="300" src="assets/Screenshot 2.png">
 
 ## Getting Started
 
