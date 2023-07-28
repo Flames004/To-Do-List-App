@@ -1,0 +1,22 @@
+@media only screen and (max-width:400px) {
+    #btn {
+        padding: 8px 15px;
+        position: absolute;
+        bottom: 8px;
+        font-size: medium;
+        right: 8px;
+    }
+
+    #list-row {
+        border-radius: 15px;
+        height: 12vh;
+        position: relative;
+        display: block;
+        padding: 10px 15px;
+    }
+
+    #input-box {
+        font-size: large;
+        width: 100%;
+    }
+}

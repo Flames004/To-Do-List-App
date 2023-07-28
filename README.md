@@ -43,7 +43,7 @@ You can see a live demo of the To-Do List application [here](https://to-do-list-
 
 ## Screenshots
 
-<img align="left" alt="Screenshot 1" width="300" src="assets/Screenshot 1.png"><img alt="Screenshot 2" width="300" src="assets/Screenshot 2.png">
+<img align="left" alt="Screenshot 1" width="300" src="assets/Screenshot 1.png"><img alt="Screenshot 2" width="300" src="assets/Screenshot 2.png"><img alt="Screenshot 3" width="300" src="assets/Screenshot 3.png">
 
 ## Getting Started
 
@@ -66,7 +66,7 @@ To run the To-Do List application locally, follow these steps:
 
 4. To remove a task, click on the "Delete" button next to the task.
 
-5. To edit a task, simply click on the "Edit" button next to the task and submit after editing.
+5. To edit a task, simply click on the text of the task, after editing click on the "Edit" button to submit.
 
 Feel free to customize and extend it to meet your specific needs.
 
